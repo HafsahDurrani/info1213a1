@@ -1,0 +1,125 @@
+body {
+  text-align: center;
+}
+
+.contactme-body {
+font-family: "Raleway";
+background-color: #f9ed69;
+}
+/* Headings */
+
+.big-heading {
+  color: #b83b5e;
+  font-family: "Dancing Script";
+  font-size: 6rem;
+  font-weight: bolder;
+  line-height: 1.5;
+}
+
+.contactme-heading {
+  padding-top: 8%;
+}
+
+/* Containers */
+
+.top-container {
+  padding: 7% 15%;
+  background-color: #f9ed69;
+}
+
+.middle-container {
+  padding: 10% 10% 10% 10%;
+  background-color: #fff;
+}
+
+.bottom-container {
+  padding: 7% 15%;
+  background-color: #f08a5d;
+  font-family: "Raleway";
+  color: #fff;
+}
+
+.footer {
+  padding: 4% 15%;
+  background-color: #fff;
+}
+
+.contactme-container {
+  padding: 7% 15%;
+}
+
+.contactme-footer {
+  padding: 4% 15%;
+  background-color: #fff;
+}
+/* Paragraphs */
+
+.top-paragraph {
+  font-family: "Raleway";
+  font-size: 2rem;
+  color: #f08a5d;
+  font-weight: bold;
+}
+
+.dancercize {
+  font-family: "Dancing Script";
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+
+
+/* Images */
+
+.middle-image {
+  border-radius: 100%;
+  width: 200px;
+}
+
+.table-image {
+  border-radius: 100%;
+  width: 150px;
+}
+
+/* Tables */
+.middle-table {
+  font-family: "Raleway";
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+.contactme-table {
+  font-family: "Raleway";
+  text-align: left;
+  font-size: 1.5rem;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+/* Button */
+.btn {
+	background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%);
+	background-color:#44c767;
+	border-radius:9px;
+	border:2px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 23px;
+	text-decoration:none;
+	text-shadow:0 0 0 #2f6627;
+}
+
+.btn:hover {
+	background:linear-gradient(to bottom, #5cbf2a 5%, #44c767 100%);
+	background-color:#5cbf2a;
+}
+
+.btn:active {
+	position:relative;
+	top:1px;
+}
